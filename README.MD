@@ -30,3 +30,9 @@ Programa escrito en micropython, con ayuda de chatGPT
   ANODO  => GPIO32
   CATODO => GND
 ```
+
+## Conexion Pines TOUCH a ESP32
+
+```
+  RESET  => GPIO4
+```
